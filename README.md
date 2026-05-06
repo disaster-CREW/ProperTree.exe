@@ -14,7 +14,7 @@ This is a custom, professional distribution of **ProperTree**, focused on stabil
 - **License:** Distributed under the **BSD 3-Clause License**.
 
 ## 🛠️ How to Install
-1. Download the `ProperTree_Setup_Disaster_Edition.exe` from the **Releases** section.
+1. Download the `ProperTree_Setup.exe` from the **Releases** section.
 2. Run the installer (Administrator privileges required for file association).
 3. Enjoy a stable .plist editing experience!
 
