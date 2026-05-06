@@ -18,5 +18,12 @@ This is a custom, professional distribution of **ProperTree**, focused on stabil
 2. Run the installer (Administrator privileges required for file association).
 3. Enjoy a stable .plist editing experience!
 
+### 🛡️ Why does Windows flag the installer?
+Because this is a custom build, it is not "signed" with a paid Microsoft developer certificate. 
+
+**To continue:**
+1. Click **"More info"** on the blue SmartScreen window.
+2. Click **"Run anyway."**
+
 ---
 *Note: This is an unofficial build. For the latest experimental features, please visit the original repository by CorpNewt.*
