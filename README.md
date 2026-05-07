@@ -1,4 +1,4 @@
-# ProperTree.exe - (v4 Stable)
+# ProperTree.exe
 
 This is a custom, professional distribution of **ProperTree**, focused on stability and ease of use. This version uses the **v4 source code** to avoid the bugs and pathing issues found in newer releases.
 
