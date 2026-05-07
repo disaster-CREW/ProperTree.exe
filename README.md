@@ -8,7 +8,7 @@ This is a custom, professional distribution of **ProperTree**, focused on stabil
 - **Stable Core:** Built from the v4 source to ensure it works every time.
 
 ## 👨‍💻 Credits & Attribution
-- **Original Software:** [ProperTree](https://github.com) by **CorpNewt**.
+- **Original Software:** [ProperTree](https://github.com/corpnewt/propertree) by **CorpNewt**.
 - **Build & Distribution:** Created and maintained by **Disaster**.
 - **License:** Distributed under the **BSD 3-Clause License**.
 
