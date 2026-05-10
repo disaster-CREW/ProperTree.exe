@@ -1,5 +1,5 @@
 # Original work by CorpNewt (2019)
-# Modifications and .exe packaging by Disaster work (2026)
+# Modifications and .exe packaging by disaster-CREW (2026)
 # -*- mode: python ; coding: utf-8 -*-
 # ProperTree PyInstaller spec file
 # Builds a windowed (no console) one-dir bundle
