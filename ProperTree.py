@@ -1,3 +1,4 @@
+#BSD 3-Clause License Copyright (c) 2019, CorpNewt All rights reserved.
 #!/usr/bin/env python
 import sys, os, binascii, base64, json, re, subprocess, webbrowser, multiprocessing, signal, ctypes
 from collections import OrderedDict
